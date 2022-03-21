@@ -1,4 +1,4 @@
-baseURL = 'http://fairplayers.fr/'
+baseURL = 'https://fairplayers.github.io '
 languageCode = 'fr-fr'
 resourceDir = "../resources"
 title = 'fairplayers'
