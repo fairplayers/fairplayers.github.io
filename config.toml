@@ -8,7 +8,6 @@ DefaultContentLanguage = "fr"
 enableRobotsTXT = true
 Paginate = 10
 recent_posts_number = 3
-SectionPagesMenu = "main"
 
 [sitemap]
   changefreq = "monthly"
