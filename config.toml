@@ -21,7 +21,7 @@ SectionPagesMenu = "main"
     contentDir = "content"
 
 [params]
-  description = "L'association des joueurs de jeux video de Betton."
+  description = "L'association des joueurs et joueuses de jeux video de Betton."
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   date_format = "2 January 2006"
