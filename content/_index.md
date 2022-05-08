@@ -1,6 +1,6 @@
 ---
 title: "fairplayers"
-description: "Association de joueurs et joueuses de jeux vidéo - Betton"
+description: "Association de joueurs et joueuses de jeux vidéo"
 cascade:
   featured_image: '/images/play.jpg'
 ---
