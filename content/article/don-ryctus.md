@@ -16,6 +16,6 @@ Un grand merci à **Yohan "Ryctus"** qui nous fait don d'une **Xbox 360** et de 
 - [Gears of War: Judgment](https://www.igdb.com/games/gears-of-war-judgment)
 - [Halo 3](https://www.igdb.com/games/halo-3)
 - [Halo 4](https://www.igdb.com/games/halo-4)
-- [Halo: Combat Evolved](evolved)
+- [Halo: Combat Evolved Anniversary](https://www.igdb.com/games/halo-combat-evolved-anniversary)
 - [Halo: Reach](https://www.igdb.com/games/halo-reach)
 - [Max Payne 3](https://www.igdb.com/games/max-payne-3)
