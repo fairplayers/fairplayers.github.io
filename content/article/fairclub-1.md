@@ -1,11 +1,11 @@
 ---
-title: "🎮 FairClub #1"
+title: "🎮 Fair Club #1"
 date: 2022-09-27T13:00:00+01:00
 draft: false
 featured_image: '/images/fairclub/20220920-flyer.jpg'
 ---
 
-Notre tout premier évènement **FairClub**, s'est tenu mardi dernier, de 19h à 23h.
+Notre tout premier évènement **Fair Club**, s'est tenu mardi dernier, de 19h à 23h.
 
 Au programme:
 
