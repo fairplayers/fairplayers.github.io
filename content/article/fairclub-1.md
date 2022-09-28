@@ -1,5 +1,5 @@
 ---
-title: "🕹️ FairClub #1"
+title: "🎮 FairClub #1"
 date: 2022-09-27T13:00:00+01:00
 draft: false
 featured_image: '/images/fairclub/20220920-flyer.jpg'
