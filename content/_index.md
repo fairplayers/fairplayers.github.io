@@ -9,6 +9,4 @@ L'association **fairplayers** a pour but de promouvoir les pratiques vidéoludiq
 
 Elle permet aux joueurs et joueuses de partager leur passion du jeux vidéo en les aidant à trouver des **partenaires de jeu**.
 
-Elle oeuvre également à la **préservation du patrimoine numérique** en maintenant une collection qui peut être mise à disposition pour des expositions.
-
 Elle promeut une pratique vertueuse du jeu vidéo, dans laquelle la **diversité des joueurs et joueuses** est respectée.
