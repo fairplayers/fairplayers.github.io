@@ -30,8 +30,8 @@ name = "discord"
 url = "https://discord.gg/Cxy7tW4M46"
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/fairplayers_fr"
+name = "mastodon"
+url = "https://piaille.fr/@fairplayers"
 
 [[params.ananke_socials]]
 name = "github"
