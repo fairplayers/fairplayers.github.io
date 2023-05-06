@@ -31,6 +31,10 @@ name = "discord"
 url = "https://discord.gg/Cxy7tW4M46"
 
 [[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/fairplayersfr"
+
+[[params.ananke_socials]]
 name = "mastodon"
 url = "https://piaille.fr/@fairplayers"
 
