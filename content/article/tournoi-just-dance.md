@@ -7,7 +7,7 @@ featured_image: '/images/just-dance/20230523/flyer.jpg'
 
 Venez danser avec nous lors du tournoi **Just Dance** que nous organisons le **samedi 10 juin**.
 
-Rendez-vous à partir de **14h00**, à **l'espace Anita Conti** de **Betton**.
+Rendez-vous à partir de **14h00**, à **l'espace Anita Conti** de **Betton** (10 rue du Tregor).
 
 Le tournoi est **gratuit**, ouvert à toutes et tous, et est limité à 40 participant(e)s.
 
