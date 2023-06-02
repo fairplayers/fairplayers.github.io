@@ -1,19 +1,25 @@
 ---
 title: Dons
-featured_image: ''
-omit_header_text: true
 description: Faites un don à l'association.
 type: page
 menu:
   main:
-    weight: 5
+    weight: 80
 ---
 
 L'association maintiens une collection qui sert lors des évènements qu'elle organise.
 
-[Contactez nous]({{< ref "/contact" >}} "Contact") si vous souhaitez faire un don à l'association. Nous acceptons tout type de matériel (consoles, PC, écrans...) et de jeux video.
+Nous acceptons tout type de matériel:
 
-# Membres donateurs
+- **Consoles de jeux**: de l'Odyssey à la PS5 !
+- **PC**: Portable, vieux PC de bureau qui faisait tourner Duke Nukem...
+- **Ecrans**: TV, moniteur, vidéoprojecteur...
+- **Accessoires**: gamepad, kinect...
+- **Ordinosaures**: old school is beautiful !
+
+[Contactez nous]({{< ref "/contact" >}} "Contact") si vous souhaitez faire un don à l'association.
+
+## Membres donateurs
 
 ### Romain
 

@@ -2,7 +2,8 @@
 title: "💣 Stunfest 2023"
 date: 2023-05-16T12:00:00+01:00
 draft: false
-featured_image: '/images/stunfest/2023/flyer.jpg'
+image: '/images/stunfest/2023/flyer.jpg'
+image_alt: "Affiche pour le stunfest"
 ---
 
 Retrouvez-nous au [Stunfest](https://www.stunfest.com) 2023 !

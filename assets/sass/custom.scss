@@ -1,0 +1,48 @@
+#header {
+    padding: 0 0 0 0;
+
+    #topLogo {
+        display: none;
+    }   
+}
+
+#nav {
+    background-color: #581B6C;
+
+    &:after {
+        background-color: #AB47CB;
+    }
+
+    > ul {
+        > li {
+            a {
+                color: #f0f0f0;
+            }
+
+            &.current {
+                font-weight: 600;
+
+                &:before {
+                    background-color: #AB47CB;
+                }
+
+                a {
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
+
+#banner {
+    background-image: url(images/stunfest/2023/bomberman_foule.jpg);
+}
+
+#titleBar {
+    background-color: #581B6C;
+    box-shadow: 0 4px 0 0 #AB47CB;
+}
+
+// #FFBD59 orange
+// #762C90 alt purple
+// #AB47CB flashy purple

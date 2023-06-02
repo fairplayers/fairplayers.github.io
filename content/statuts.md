@@ -1,11 +1,9 @@
 ---
 title: Statuts
-featured_image: ''
-omit_header_text: true
 type: page
 menu:
   main:
-    weight: 2
+    weight: 100
 ---
 
 ### ARTICLE 1 - NOM

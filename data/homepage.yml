@@ -1,0 +1,53 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "**fairplayers** - _Association de joueurs et joueuses de jeux vidéo_"
+  button:
+    contents: "Adhérer"
+    url: "https://www.helloasso.com/associations/fairplayers/adhesions/adhesion-a-fairplayers"
+items:
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: Animations
+      icon: fa-gamepad
+      content: >
+        On joue et on fait jouer en organisant des **évènements vidéoludiques** (médiathèque, centre de loisirs, stunfest...)
+    - title: LAN
+      icon: fa-desktop
+      content: >
+        Parce qu'on aime jouer côte à côte, on fait régulièrement des **LAN PC** et **consoles**
+    - title: Jeux en ligne
+      icon: fa-headset
+      content: >
+        Tous les 1er et 3èmes **mardi** du mois, on joue **ensemble** en ligne, sur notre [discord](https://discord.gg/Cxy7tW4M46)
+  - type: heading
+    heading: Tenez-vous au courant de nos activités
+    contents: Rejoignez-nous sur [discord](https://discord.gg/Cxy7tW4M46), [instagram](https://www.instagram.com/fairplayersfr) et [mastodon](https://piaille.fr/@fairplayers).
+  - type: posts
+    # heading: Actualité récente
+    content_type: article
+    max: 4
+  - type: heading
+    heading: L'esprit fairplayers
+    contents: Une pratique éthique du jeu vidéo. Et c'est inscrit dans nos [statuts](/statuts) !
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: 
+      icon: fa-ghost
+      content: >
+        Promouvoir les pratiques vidéoludiques, **sous toutes leurs formes**
+    - title: 
+      icon: fa-users
+      content: >
+        Rassembler une **communauté** de joueurs et joueuses unis par une même **passion**
+    - title: 
+      icon: fa-universal-access
+      content: >
+        Promouvoir une **pratique vertueuse** du jeu vidéo, dans laquelle la **diversité** des joueurs et des joueuses est **respectée**
+  - type: cta
+    contents: "Nous acceptons tout don de jeux vidéo et de matériel"
+    button:
+      contents: Devenir donateur
+      url: "/dons"

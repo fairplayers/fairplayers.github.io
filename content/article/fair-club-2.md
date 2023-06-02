@@ -2,7 +2,7 @@
 title: "🎮 Fair Club #2 - LAN Consoles"
 date: 2022-10-04T12:00:00+01:00
 draft: false
-featured_image: '/images/fairclub/20221013-flyer.jpg'
+image: '/images/fairclub/20221013-flyer.jpg'
 ---
 
 Le Fair Club #2 aura lieu le **jeudi 13 octobre**, de 19h à 23h.

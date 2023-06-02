@@ -2,7 +2,7 @@
 title: "🎮 Fair Club #1 - Party Games"
 date: 2022-09-27T13:00:00+01:00
 draft: false
-featured_image: '/images/fairclub/20220920-flyer.jpg'
+image: '/images/fairclub/20220920-flyer.jpg'
 ---
 
 Notre tout premier évènement **Fair Club** s'est tenu la semaine dernière, avec comme thème principal les **Party Games**.

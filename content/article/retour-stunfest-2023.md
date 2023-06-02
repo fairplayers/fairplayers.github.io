@@ -2,7 +2,8 @@
 title: "💥 Retour sur le Stunfest 2023"
 date: 2023-05-22T12:00:00+01:00
 draft: false
-featured_image: '/images/stunfest/2023/bomberman.jpg'
+image: '/images/stunfest/2023/bomberman.jpg'
+image_alt: "Photo du stand du stunfest"
 ---
 
 Ca y est on l'a fait ! Du **Bomberman Saturn** au **Stunfest 2023** !
@@ -22,6 +23,8 @@ On est rodés maintenant, et prêts à remettre ça l'année prochaine !
 {{< line_break >}}
 
 {{< youtube 6nW63iqal6M >}}
+
+{{< line_break >}}
 
 ![Bomberman](/images/stunfest/2023/bomberman.jpg)
 ![Bomberman](/images/stunfest/2023/bomberman2.jpg)

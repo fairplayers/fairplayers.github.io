@@ -1,14 +1,12 @@
 ---
 title: Contact
-featured_image: ''
-omit_header_text: true
-description: Laissez-nous un message!
+description: N'hésitez pas à nous contacter
 type: page
 menu:
   main:
-    weight: 3
+    weight: 70
 ---
 
-N'hésitez pas à nous contacter via ce formulaire, ou venez directement discuter avec nous sur notre [discord](https://discord.gg/Cxy7tW4M46).
+**Email**: contact@fairplayers.fr.
 
-{{< form-contact action="https://formspree.io/f/mlezlvvq" >}}
+**Discord**: [https://discord.gg/Cxy7tW4M46](https://discord.gg/Cxy7tW4M46).

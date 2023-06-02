@@ -2,36 +2,45 @@
 title: "🕹️ Retour sur l'après-midi retrogaming"
 date: 2022-05-08T12:00:00+01:00
 draft: false
-featured_image: '/images/retrogaming/bomberman-2.jpg'
+image: '/images/retrogaming/bomberman-2.jpg'
 ---
 
 Ambiance détendue et familiale lors de l'après-midi retrogaming du samedi 7 mai 2022, organisé par l'association fairplayers à la médiathèque de Betton.
 
 Au menu:
 
+#### Bomberman à 10 joueurs sur Saturn.
+
 ![Saturn Bomberman](/images/retrogaming/bomberman-1.jpg)
-Bomberman à 10 joueurs sur Saturn.
+
+#### Mario kart: Double dash à 4 joueurs sur GameCube.
 
 ![GameCube](/images/retrogaming/gamecube.jpg)
-Mario kart: Double dash à 4 joueurs sur GameCube.
+
+#### Streets of rage sur Megadrive.
 
 ![Megadrive](/images/retrogaming/megadrive.jpg)
-Streets of rage sur Megadrive.
+
+#### Bust a Move 2 sur Nintendo64.
 
 ![N64](/images/retrogaming/n64.jpg)
-Bust a Move 2 sur Nintendo64.
+
+#### Super Mario World et Street Fighter 2 Turbo sur Super Famicom.
 
 ![Super Famicom](/images/retrogaming/snes.jpg)
-Super Mario World et Street Fighter 2 Turbo sur Super Famicom.
+
+#### Tekken 2 sur Playstation (remplacé plus tard par PES sur Playstation 2).
 
 ![Playstation](/images/retrogaming/playstation.jpg)
-Tekken 2 sur Playstation (remplacé plus tard par PES sur Playstation 2).
+
+#### Un gros succès et beaucoup de fun pour Bomberman.
 
 ![Bomberman](/images/retrogaming/bomberman-2.jpg)
-Un gros succès et beaucoup de fun pour Bomberman.
+
+#### Pour les plus jeunes, la découverte des joies du retrogaming.
 
 ![Jeux](/images/retrogaming/jeux.jpg)
-Pour les plus jeunes, la découverte des joies du retrogaming.
+
+#### Et un chouette apéro à la Buvette du Pont pour finir la journée en beauté.
 
 ![Apero](/images/retrogaming/apero.jpg)
-Et un chouette apéro à la Buvette du Pont pour finir la journée en beauté.

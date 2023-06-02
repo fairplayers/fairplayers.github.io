@@ -2,7 +2,7 @@
 title: "🕹️ Après-midi retrogaming"
 date: 2022-04-09T12:00:00+01:00
 draft: false
-featured_image: '/images/joystick.jpg'
+image: '/images/joystick.jpg'
 ---
 
 Rendez-vous le **07 mai 2022** de 14h à 18h à la médiathèque de Betton pour un après-midi retrogaming, organisé par l'asso **fairplayers**.

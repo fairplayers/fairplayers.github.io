@@ -2,7 +2,7 @@
 title: "🖥️ Soirée LAN"
 date: 2022-04-22T12:00:00+01:00
 draft: false
-featured_image: '/images/lan-fun.jpg'
+image: '/images/lan-fun.jpg'
 ---
 
 Inscrivez-vous à la première LAN de **fairplayers** qui aura lieu le **14 mai 2022 de 19h à minuit** à la médiathèque de Betton.

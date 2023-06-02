@@ -2,7 +2,7 @@
 title: "🖥️ LAN Party PC #2"
 date: 2023-01-29T12:00:00+01:00
 draft: false
-featured_image: '/images/lan-party-pc/20230128/flyer.jpg'
+image: '/images/lan-party-pc/20230128/flyer.jpg'
 ---
 
 Rien de tel qu'une bonne petite LAN PC pour bien commencer l'année !

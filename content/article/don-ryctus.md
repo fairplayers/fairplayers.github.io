@@ -2,7 +2,7 @@
 title: "🎁 Premier membre donateur"
 date: 2022-07-14T12:00:00+01:00
 draft: false
-featured_image: '/images/dons/20220712-xbox360.jpg'
+image: '/images/dons/20220712-xbox360.jpg'
 ---
 
 Un grand merci à **Yohan "Ryctus"** qui nous fait don d'une **Xbox 360** et de **10 jeux**, et qui devient donc le premier [membre donateur]({{< ref "/dons" >}} "Dons") de l'association.

@@ -1,43 +1,71 @@
 baseURL = 'http://www.fairplayers.fr'
-languageCode = 'fr-fr'
-resourceDir = "../resources"
-title = 'fairplayers'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-
-DefaultContentLanguage = "fr"
+defaultContentLanguage = "fr"
 enableRobotsTXT = true
-Paginate = 10
-recent_posts_number = 3
+languageCode = 'fr-fr'
+paginate = 10
+resourceDir = "../resources"
+# theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/half-duplex/hugo-arcana"]
+title = 'fairplayers'
 
 [sitemap]
   changefreq = "monthly"
-  priority = 0.5
   filename = "sitemap.xml"
+  priority = 0.5
 
-[languages]
-  [languages.fr]
-    weight = 2
-    contentDir = "content"
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
 
 [params]
-  description = "Association de joueurs et joueuses de jeux vidéo - Betton"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-purple"
-  date_format = "2 January 2006"
-  env = "production"
+    description = "Association de joueurs et joueuses de jeux vidéo - Betton"
+    # show_post_dates = false
 
-[[params.ananke_socials]]
-name = "discord"
-url = "https://discord.gg/Cxy7tW4M46"
+    [[params.social]]
+        title = "Discord"
+        icon = "fa-discord"
+        url = "https://discord.gg/Cxy7tW4M46"
+    [[params.social]]
+        title = "Instagram"
+        icon = "fa-instagram"
+        url = "https://www.instagram.com/fairplayersfr"
+    [[params.social]]
+        title = "Mastodon"
+        icon = "fa-mastodon"
+        url = "https://piaille.fr/@fairplayers"
+    [[params.social]]
+        title = "Youtube"
+        icon = "fa-youtube"
+        url = "https://www.youtube.com/@fairplayersfr"
+    [[params.social]]
+        title = "Github"
+        icon = "fa-github"
+        url = "https://github.com/fairplayers"
 
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/fairplayersfr"
+    # [params.footer]
 
-[[params.ananke_socials]]
-name = "mastodon"
-url = "https://piaille.fr/@fairplayers"
+    #     [[params.footer.links]]
+    #         header = "Links to Stuff"
+    #     [[params.footer.links.links]]
+    #         title = "Mattis et quis rutrum"
+    #         url = "#"
+    #     [[params.footer.links.links]]
+    #         title = "Suspendisse amet varius"
+    #         url = "#"
+    #     [[params.footer.links.links]]
+    #         title = "Sed et dapibus quis"
+    #         url = "#"
 
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/fairplayers"
+    #     [[params.footer.links]]
+    #         header = "More Links to Stuff"
+    #     [[params.footer.links.links]]
+    #         title = "Duis neque nisi dapibus"
+    #         url = "#"
+    #     [[params.footer.links.links]]
+    #         title = "Sed et dapibus quis"
+    #         url = "#"
+
+    #     [params.footer.contact_form]
+    #         enabled = true
+    #         header = "Get In Touch"
+    #         action = ""
