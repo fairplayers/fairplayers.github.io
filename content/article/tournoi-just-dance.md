@@ -13,9 +13,13 @@ Rendez-vous à partir de 14h00, à **l'espace Anita Conti** de **Betton** (10 ru
 
 Le tournoi est **gratuit**, ouvert à toutes et tous **à partir de 9 ans,** et est limité à **40 participant(e)s**.
 
-L'inscription peut se faire:
+Nous jouerons sur Just Dance 2019, 2017 et 2014 sur **PS4** avec une caméra à **détection de mouvements**.
+
+Des jeux vidéos et des **goodies** récompenseront les meilleur(e)s participant(e)s !
+
+Inscription:
 - par mail à **contact@fairplayers.fr**,
-- sur la billeterie de [helloasso](https://www.helloasso.com/associations/fairplayers/evenements/tournoi-just-dance),
+- sur la billetterie de [helloasso](https://www.helloasso.com/associations/fairplayers/evenements/tournoi-just-dance),
 - ou directement sur place
 
-![Affiche](/images/just-dance/20230523/flyer.jpg?w=100)
+![Affiche](/images/just-dance/20230523/flyer2.jpg)
