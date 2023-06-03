@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-description: "L'actualité d'association"
+description: "L'actualité de l'association"
 menu:
   main:
     weight: 10
