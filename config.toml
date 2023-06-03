@@ -4,7 +4,7 @@ enableRobotsTXT = true
 languageCode = 'fr-fr'
 paginate = 10
 resourceDir = "../resources"
-# theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+summaryLength = 30
 theme = ["github.com/half-duplex/hugo-arcana"]
 title = 'fairplayers'
 

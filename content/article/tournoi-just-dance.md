@@ -13,11 +13,9 @@ Rendez-vous à partir de 14h00, à **l'espace Anita Conti** de **Betton** (10 ru
 
 Le tournoi est **gratuit**, ouvert à toutes et tous **à partir de 9 ans,** et est limité à **40 participant(e)s**.
 
-<!-- more -->
-
 L'inscription peut se faire:
-- par mail à **contact@fairplayers.fr**
-- sur la billeterie de [helloasso](https://www.helloasso.com/associations/fairplayers/evenements/tournoi-just-dance)
+- par mail à **contact@fairplayers.fr**,
+- sur la billeterie de [helloasso](https://www.helloasso.com/associations/fairplayers/evenements/tournoi-just-dance),
 - ou directement sur place
 
 ![Affiche](/images/just-dance/20230523/flyer.jpg?w=100)
