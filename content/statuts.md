@@ -13,7 +13,7 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 Cette association a pour but de promouvoir les pratiques vidéoludiques via l’organisation d’évènements tels que des rencontres, des animations et des conférences autour du jeu vidéo. Elle permet aux joueurs et joueuses de partager leur passion du jeu vidéo en les aidant à trouver des partenaires de jeu. Elle œuvre également à la préservation du patrimoine numérique en maintenant une collection qui peut être mise à disposition pour des expositions. Elle promeut une pratique vertueuse du jeu vidéo, dans laquelle la diversité des joueurs et joueuses est respectée.
 
 ### ARTICLE 3 - SIÈGE SOCIAL
-Le siège social est situé à : 2 rue des marronniers, 35830 Betton.
+Le siège social est situé à : 35830 Betton.
 
 Il pourra être transféré par simple décision du Conseil d'Administration, et l’Assemblée Générale en sera informée.
 

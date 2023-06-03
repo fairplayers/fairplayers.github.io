@@ -1,6 +1,6 @@
 ---
 title: Dons
-description: Faites un don à l'association.
+description: Faites un don à l'association
 type: page
 menu:
   main:
