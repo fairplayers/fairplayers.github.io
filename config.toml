@@ -30,13 +30,17 @@ title = 'fairplayers'
         icon = "fa-instagram"
         url = "https://www.instagram.com/fairplayersfr"
     [[params.social]]
+        title = "Youtube"
+        icon = "fa-youtube"
+        url = "https://www.youtube.com/@fairplayersfr"
+    [[params.social]]
         title = "Mastodon"
         icon = "fa-mastodon"
         url = "https://piaille.fr/@fairplayers"
     [[params.social]]
-        title = "Youtube"
-        icon = "fa-youtube"
-        url = "https://www.youtube.com/@fairplayersfr"
+        title = "Pixelfed"
+        icon = "fa-image"
+        url = "https://pixelfed.fr/fairplayers"
     [[params.social]]
         title = "Github"
         icon = "fa-github"
