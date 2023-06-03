@@ -3,6 +3,7 @@ title: "🎮 Online Sessions"
 date: 2023-03-21T12:00:00+01:00
 draft: false
 image: '/images/online-sessions/2023-flyer.jpg'
+tags: ["Online sessions"]
 ---
 
 Tous les 1er et 3ème mardis du mois, on se retrouve sur discord pour jouer ensemble à un jeu en ligne.

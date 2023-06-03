@@ -3,6 +3,7 @@ title: "🎮 Retour sur le Fair Club #2"
 date: 2022-10-14T08:00:00+01:00
 draft: false
 image: '/images/fairclub/20221013/chuchurocket_2.jpg'
+tags: ["LAN", "LAN consoles"]
 ---
 
 Grâce à une **PS4**, une **switch** et une **dreamcast** en accès libre:

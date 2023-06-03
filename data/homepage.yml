@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**fairplayers** - _Association de joueurs et joueuses de jeux vidéo_"
+  contents: "Association de joueurs et joueuses de jeux vidéo _- Betton_"
   button:
     contents: "Adhérer"
     url: "https://www.helloasso.com/associations/fairplayers/adhesions/adhesion-a-fairplayers"

@@ -4,6 +4,7 @@ date: 2023-05-22T12:00:00+01:00
 draft: false
 image: '/images/stunfest/2023/bomberman.jpg'
 image_alt: "Photo du stand du stunfest"
+tags: ["Evènements"]
 ---
 
 Ca y est on l'a fait ! Du **Bomberman Saturn** au **Stunfest 2023** !

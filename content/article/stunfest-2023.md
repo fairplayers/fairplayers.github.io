@@ -4,6 +4,7 @@ date: 2023-05-16T12:00:00+01:00
 draft: false
 image: '/images/stunfest/2023/flyer.jpg'
 image_alt: "Affiche pour le stunfest"
+tags: ["Evènements"]
 ---
 
 Retrouvez-nous au [Stunfest](https://www.stunfest.com) 2023 !

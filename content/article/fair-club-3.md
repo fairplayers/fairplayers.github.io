@@ -3,6 +3,7 @@ title: "🎮 Fair Club #3 - LAN Consoles"
 date: 2022-11-19T12:00:00+01:00
 draft: false
 image: '/images/fairclub/20221118-flyer.jpg'
+tags: ["LAN", "LAN consoles"]
 ---
 
 Retour sur le Fair Club #3 qui a eu lieu le **vendredi 18 novembre**.

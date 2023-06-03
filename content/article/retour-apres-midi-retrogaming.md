@@ -3,6 +3,7 @@ title: "🕹️ Retour sur l'après-midi retrogaming"
 date: 2022-05-08T12:00:00+01:00
 draft: false
 image: '/images/retrogaming/bomberman-2.jpg'
+tags: ["Evènements"]
 ---
 
 Ambiance détendue et familiale lors de l'après-midi retrogaming du samedi 7 mai 2022, organisé par l'association fairplayers à la médiathèque de Betton.

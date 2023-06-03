@@ -43,6 +43,14 @@
     box-shadow: 0 4px 0 0 #AB47CB;
 }
 
+.icon {
+    &.major {
+        background-color: #AB47CB ;
+        color: _palette(accent, fg);
+    }
+}
+
 // #FFBD59 orange
+// 581B6C dark purple
 // #762C90 alt purple
-// #AB47CB flashy purple
+// #AB47CB clear purple
