@@ -12,15 +12,15 @@ items:
     - title: Animations
       icon: fa-gamepad
       content: >
-        On joue et on fait jouer en organisant des **évènements vidéoludiques** (médiathèque, centre de loisirs, stunfest...)
-    - title: LAN
-      icon: fa-desktop
-      content: >
-        Parce qu'on aime jouer côte à côte, on fait régulièrement des **LAN PC** et **consoles**
+        On joue et on fait jouer en organisant des **évènements vidéoludiques** publics (médiathèque, centre de loisirs, stunfest, tournois...)
     - title: Jeux en ligne
       icon: fa-headset
       content: >
-        Tous les 1er et 3èmes **mardi** du mois, on joue **ensemble** en ligne, sur notre [discord](https://discord.gg/Cxy7tW4M46)
+        Tous les 1er et 3ème **mardi** du mois, on joue **ensemble** en ligne, sur notre [discord](https://discord.gg/Cxy7tW4M46)
+    - title: LAN
+      icon: fa-desktop
+      content: >
+        Parce qu'on aime aussi se rassembler pour jouer dans la même pièce, on fait régulièrement des **LAN PC** et **consoles** entre membres de l'association
   - type: heading
     heading: Tenez-vous au courant de nos activités
     contents: Rejoignez-nous sur [discord](https://discord.gg/Cxy7tW4M46), [instagram](https://www.instagram.com/fairplayersfr) et [mastodon](https://piaille.fr/@fairplayers).
