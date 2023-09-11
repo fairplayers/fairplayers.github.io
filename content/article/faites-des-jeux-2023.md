@@ -1,5 +1,5 @@
 ---
-title: "Faites des jeux"
+title: "🎮 Faites des jeux"
 date: 2023-09-10T12:00:00+01:00
 draft: false
 image: '/images/faites-des-jeux/2023/flyer.jpg'

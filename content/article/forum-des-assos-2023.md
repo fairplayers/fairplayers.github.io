@@ -1,5 +1,5 @@
 ---
-title: "Forum des associations"
+title: "🎤 Forum des associations"
 date: 2023-09-09T17:00:00+01:00
 draft: false
 image: '/images/forum-des-assos/2023/stand.jpg'
