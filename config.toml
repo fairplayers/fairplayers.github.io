@@ -62,17 +62,17 @@ title = 'fairplayers'
         [[params.footer.links]]
             header = "LAN"
         [[params.footer.links.links]]
+            title = "LAN PC #5"
+            url = "/article/lan-party-pc-5/"
+        [[params.footer.links.links]]
+            title = "LAN PC #4"
+            url = "/article/lan-party-pc-4/"
+        [[params.footer.links.links]]
             title = "LAN PC #3"
             url = "/article/lan-party-pc-3/"
         [[params.footer.links.links]]
             title = "LAN PC #2"
             url = "/article/lan-party-pc-2/"
-        [[params.footer.links.links]]
-            title = "Fair Club #3"
-            url = "/article/fair-club-3/"
-        [[params.footer.links.links]]
-            title = "LAN PC #1"
-            url = "/article/soiree-lan-party/"
 
         [[params.footer.links]]
             header = "Donations"
