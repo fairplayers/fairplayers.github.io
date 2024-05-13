@@ -47,6 +47,9 @@ title = 'fairplayers'
         [[params.footer.links]]
             header = "Evènements"
         [[params.footer.links.links]]
+            title = "Écran partagé: Knit's Island"
+            url = "/article/ecran-partage-knit-s-island/"
+        [[params.footer.links.links]]
             title = "Tournoi Just Dance"
             url = "/article/retour-tournoi-just-dance/"
         [[params.footer.links.links]]
@@ -55,9 +58,6 @@ title = 'fairplayers'
         [[params.footer.links.links]]
             title = "Rétrogaming au centre de loisirs"
             url = "/article/retrogaming-centre-loisirs-betton/"
-        [[params.footer.links.links]]
-            title = "Rétrogaming à la médiathèque"
-            url = "/article/retour-apres-midi-retrogaming/"
 
         [[params.footer.links]]
             header = "LAN"
