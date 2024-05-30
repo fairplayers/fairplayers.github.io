@@ -12,12 +12,15 @@ Le **mardi 02 juillet 2024**, nous organisons un événement **Écran Partagé**
 Au programme:
 
 - Ouverture des portes à **19h00**.
-- Session de **Mario Kart 8 Deluxe** sur l'écran du cinéma. Seules les personnes pré-inscrites auront la possibilité de jouer avant la diffusion du documentaire: [page de pré-inscription (HelloAsso)](https://www.helloasso.com/associations/fairplayers/evenements/ecran-partage-mario-kart-knit-s-island-l-ile-sans-fin)
-- Diffusion du documentaire [Knit’s Island, L’Île sans fin](https://www.allocine.fr/film/fichefilm_gen_cfilm=315619.html) *(VOST)* à **20h30**.
+- Session de **Mario Kart 8 Deluxe** sur l'écran du cinéma, **limitée à 32 participant(e)s**.
+- Diffusion du **documentaire** [Knit’s Island, L’Île sans fin](https://www.allocine.fr/film/fichefilm_gen_cfilm=315619.html) *(VOST)* à **20h30**.
 
-Le paiement s'effectuera sur place, lors de votre arrivée, aux tarifs habituels du cinéma: https://www.eveil-triskel.fr/tarifs/
+Seules les personnes **pré-inscrites** auront la possibilité de jouer avant la diffusion du documentaire:
+[page de pré-inscription sur HelloAsso](https://www.helloasso.com/associations/fairplayers/evenements/ecran-partage-mario-kart-knit-s-island-l-ile-sans-fin)
 
-{{< line_break >}}
+⚠️ Ne pas tenir compte de la mention "Gratuit" sur la page de HelloAsso: le **paiement s'effectuera sur place**, lors de votre arrivée, aux tarifs habituels du cinéma: https://www.eveil-triskel.fr/tarifs/
+
+Notez bien que le documentaire est en **VOST**, et n'est forcément adapté aux plus jeunes. Voici sa bande annonce:
 
 {{< youtube EyvZ3iuMWKM >}}
 
