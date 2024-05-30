@@ -13,7 +13,7 @@ Au programme:
 
 - Ouverture des portes à **19h00**.
 - Session de **Mario Kart 8 Deluxe** sur l'écran du cinéma. Seules les personnes pré-inscrites auront la possibilité de jouer avant la diffusion du documentaire: [page de pré-inscription (HelloAsso)](https://www.helloasso.com/associations/fairplayers/evenements/ecran-partage-mario-kart-knit-s-island-l-ile-sans-fin)
-- Diffusion du documentaire [Knit’s Island, L’Île sans fin](https://www.allocine.fr/film/fichefilm_gen_cfilm=315619.html) à **20h30**.
+- Diffusion du documentaire [Knit’s Island, L’Île sans fin](https://www.allocine.fr/film/fichefilm_gen_cfilm=315619.html) *(VOST)* à **20h30**.
 
 Le paiement s'effectuera sur place, lors de votre arrivée, aux tarifs habituels du cinéma: https://www.eveil-triskel.fr/tarifs/
 
