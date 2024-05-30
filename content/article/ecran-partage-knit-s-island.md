@@ -18,9 +18,9 @@ Au programme:
 Seules les personnes **pré-inscrites** auront la possibilité de jouer avant la diffusion du documentaire:
 [page de pré-inscription sur HelloAsso](https://www.helloasso.com/associations/fairplayers/evenements/ecran-partage-mario-kart-knit-s-island-l-ile-sans-fin)
 
-⚠️ Ne pas tenir compte de la mention "Gratuit" sur la page de HelloAsso: le **paiement s'effectuera sur place**, lors de votre arrivée, aux tarifs habituels du cinéma: https://www.eveil-triskel.fr/tarifs/
+💶 Ne pas tenir compte de la mention "Gratuit" sur la page de HelloAsso: le **paiement s'effectuera sur place**, lors de votre arrivée, aux tarifs habituels du cinéma: https://www.eveil-triskel.fr/tarifs/
 
-Notez bien que le documentaire est en **Version Originale Sous-titrée**, et n'est donc adapté aux plus jeunes. Voici sa bande annonce:
+⚠️ Notez bien que le documentaire est en **Version Originale Sous-titrée**, et n'est donc adapté aux plus jeunes. Voici sa bande annonce:
 
 {{< youtube EyvZ3iuMWKM >}}
 
