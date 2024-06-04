@@ -20,7 +20,7 @@ Seules les personnes **pré-inscrites** auront la possibilité de jouer avant la
 
 💶 Ne pas tenir compte de la mention "Gratuit" sur la page de HelloAsso: le **paiement s'effectuera sur place**, lors de votre arrivée, aux tarifs habituels du cinéma: https://www.eveil-triskel.fr/tarifs/
 
-⚠️ Notez bien que le documentaire est en **Version Originale Sous-titrée**, et n'est donc adapté aux plus jeunes. Voici sa bande annonce:
+⚠️ Notez bien que le documentaire est en **Version Originale Sous-titrée**, et n'est donc pas adapté aux plus jeunes. Voici sa bande annonce:
 
 {{< youtube EyvZ3iuMWKM >}}
 
