@@ -7,7 +7,7 @@ image_alt: "Affiche du Knit's Island"
 tags: ["Evènements", "Écran partagé", "Cinéma"]
 ---
 
-Plus de 20 personnes ont participées à notre premier **Écran partagé** qui a eu lieu le **mardi 2 juillet** au cinéma **Le Triskel** de Betton.
+Plus de 20 personnes ont participé à notre premier **Écran partagé** qui a eu lieu le **mardi 2 juillet** au cinéma **Le Triskel** de Betton.
 
 Nous avions installé deux Switch en freeplay, et bien entendu une Switch sur l'écran principal du cinéma.
 
