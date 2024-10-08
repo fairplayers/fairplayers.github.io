@@ -25,6 +25,8 @@ Nous nous occupons de l'espace **jeux vidéo**, avec entre autre:
 - un setup **Bomberman Saturn** à 10 joueurs
 - moultes consoles **rétrogaming**
 
+Pour vous faire une idée, vous pouvez lire le [compte rendu de l'édition 2023](/article/retour-faites-des-jeux-2023/).
+
 A noter qu’une petite restauration sera assurée sur place par l'association [Dans les Pas du Hérisson](https://danslespasduherisson.fr/).
 
 ![Flyer](/images/faites-des-jeux/2024/flyer.jpg)
