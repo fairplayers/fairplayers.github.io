@@ -39,10 +39,22 @@
             $(
                 '<div id="titleBar">' +
                     '<a href="#navPanel" class="toggle"></a>' +
-                    '<span class="title">' + $('#logo').html() + '</span>' +
+                    '<span class="title">' + $('#logo-wrapper').html() + '</span>' +
                 '</div>'
             )
                 .appendTo($body);
+
+        // Toolbox.
+            let toolBoxElement = '<div class="toolbox">';
+            let multilingual = $('#multilingual');
+            if (multilingual[0]){
+                toolBoxElement +=
+                    '<div class="dropdown">' +
+                        multilingual.html() +
+                    '</div>';
+            }
+
+            toolBoxElement += '</div>';
 
         // Panel.
             $(
@@ -50,6 +62,7 @@
                     '<nav>' +
                         $('#nav').navList() +
                     '</nav>' +
+                    toolBoxElement +
                 '</div>'
             )
                 .appendTo($body)
@@ -63,5 +76,14 @@
                     target: $body,
                     visibleClass: 'navPanel-visible'
                 });
+
+    // Dropdown buttons.
+        $('a#languageDropdown').click(function (e) {
+            $('ul#languageContent').toggleClass("show");
+            e.stopPropagation();
+        });
+        $(document).click(function() {
+            $('ul#languageContent').removeClass("show");
+        });
 
 })(jQuery);
