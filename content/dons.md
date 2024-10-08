@@ -21,6 +21,12 @@ Nous acceptons tout type de matériel:
 
 ## Membres donateurs
 
+### Etienne
+
+Deux **moniteurs 24" BenQ** HDMI.
+
+![Moniteurs](/images/dons/20240716-moniteurs.jpg)
+
 ### Romain
 
 Don d'une **Wii** avec 4 wiimotes, une balance board et 27 jeux.

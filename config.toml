@@ -54,6 +54,9 @@ title = 'fairplayers'
             title = "Écran partagé: Knit's Island"
             url = "/article/ecran-partage-knit-s-island/"
         [[params.footer.links.links]]
+            title = "Faites des Jeux 2023"
+            url = "/article/retour-faites-des-jeux-2023/"
+        [[params.footer.links.links]]
             title = "Tournoi Just Dance"
             url = "/article/retour-tournoi-just-dance/"
         [[params.footer.links.links]]
@@ -80,6 +83,9 @@ title = 'fairplayers'
 
         [[params.footer.links]]
             header = "Donations"
+        [[params.footer.links.links]]
+            title = "Moniteurs BenQ"
+            url = "/article/don-etienne/"
         [[params.footer.links.links]]
             title = "PS3 et Wii"
             url = "/article/don-romain/"
