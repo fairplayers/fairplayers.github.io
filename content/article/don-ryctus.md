@@ -8,6 +8,8 @@ tags: ["Donations"]
 
 Un grand merci à **Yohan "Ryctus"** qui nous fait don d'une **Xbox 360** et de **10 jeux**, et qui devient donc le premier [membre donateur]({{< ref "/dons" >}} "Dons") de l'association.
 
+<!--more-->
+
 ![Xbox360](/images/dons/20220712-xbox360.jpg)
 
 - [Assassin's Creed III](https://www.igdb.com/games/assassin-s-creed-iii)

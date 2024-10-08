@@ -8,6 +8,8 @@ tags: ["LAN", "LAN PC"]
 
 Rien de tel qu'une bonne petite LAN PC pour bien commencer l'année !
 
+<!--more-->
+
 Nous étions une dizaine de personnes rénunies tout un samedi pour jouer à:
 - Age of Empires IV,
 - Alien Swarm,

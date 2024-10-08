@@ -8,6 +8,8 @@ tags: ["Evènements"]
 
 Ambiance détendue et familiale lors de l'après-midi retrogaming du samedi 7 mai 2022, organisé par l'association fairplayers à la médiathèque de Betton.
 
+<!--more-->
+
 Au menu:
 
 #### Bomberman à 10 joueurs sur Saturn.

@@ -9,6 +9,8 @@ tags: ["Evènements"]
 
 Nous étions présents au forum des associations de Betton ce samedi 09 septembre.
 
+<!--more-->
+
 Ce fut l'occasion de présenter l'asso aux visiteurs, en mettant l'accent sur les évènements organisés tout au long de l'année écoulée:
 - LAN consoles
 - LAN PC

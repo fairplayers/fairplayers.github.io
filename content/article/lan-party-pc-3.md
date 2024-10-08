@@ -8,6 +8,8 @@ tags: ["LAN", "LAN PC"]
 
 Un format inédit pour une LAN en mode hybride offline/online, et tout le monde en vocal sur notre discord.
 
+<!--more-->
+
 Du vendredi soir au samedi soir, nous étions 7 à participer, et nous avons joué à:
 - Age of Empires III,
 - Alien Swarm,

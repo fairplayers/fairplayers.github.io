@@ -8,6 +8,8 @@ tags: ["Evènements"]
 
 Ce mardi 12 juillet 2022, de 18h à 20h, l'association a organisé une **animation retrogaming** au centre de loisirs de la Chaperonnais de Betton.
 
+<!--more-->
+
 **Cinq postes de jeux** ont été installés, pour le plus grand bonheur des enfants du centre, ainsi que leurs parents.
 
 ![Wii bowling](/images/retrogaming/20220712/wii-bowling.jpg)

@@ -9,6 +9,8 @@ tags: ["Evènements", "Écran partagé", "Cinéma"]
 
 Le **mardi 02 juillet 2024**, nous organisons un événement **Écran Partagé** en association avec le cinéma **Le Triskel** de Betton.
 
+<!--more-->
+
 Au programme:
 
 - Ouverture des portes à **19h00**.

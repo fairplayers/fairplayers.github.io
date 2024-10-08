@@ -8,6 +8,8 @@ tags: ["Donations"]
 
 Un grand merci à **Romain** qui nous fait don d'une **Wii** avec **4 wiimotes**, une **balance board** et **27 jeux**, ainsi qu'une **PS3** avec **2 gamepads** et **7 jeux**.
 
+<!--more-->
+
 Romain est le deuxième [membre donateur]({{< ref "/dons" >}} "Dons") de l'association.
 
 ![Wii](/images/dons/20230509-wii.jpg)

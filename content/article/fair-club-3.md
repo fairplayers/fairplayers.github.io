@@ -8,6 +8,8 @@ tags: ["LAN", "LAN consoles"]
 
 Retour sur le Fair Club #3 qui a eu lieu le **vendredi 18 novembre**.
 
+<!--more-->
+
 On s'est amusé sur 🏹 **Tower Fall**, 🏎️ **Mario Kart 8**, et 💃 **Just Dance**.
 
 Pour rappel, le Fair Club est un évènement mensuel à destination des adhérent(e)s.

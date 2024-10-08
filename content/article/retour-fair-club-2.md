@@ -14,6 +14,8 @@ Grâce à une **PS4**, une **switch** et une **dreamcast** en accès libre:
 - on s'est fait laminer par l'IA sur **Virtua Tennis 2**,
 - on a organisé une rencontre d'anciens champions de **Bust a move 4**.
 
+<!--more-->
+
 Le prochain Fair Club se tiendra le **vendredi 18 novembre**, à 19h, salle 3 de l'espace Anita Conti à Betton.
 
 ![Chuchu Rocket](/images/fairclub/20221013/chuchurocket_1.jpg)

@@ -11,6 +11,8 @@ Retrouvez-nous au [Stunfest](https://www.stunfest.com) 2023 !
 
 Nous y organisons un stand le **samedi soir, de 22h à 00h**.
 
+<!--more-->
+
 Venez-jouer à **Bomberman Saturn**, projeté sur le chapiteau extérieur du festival.
 
 En free play pour les festivaliers. Jusqu'à 10 joueurs simultanément !

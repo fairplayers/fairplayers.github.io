@@ -9,6 +9,8 @@ tags: ["Evènements"]
 
 Les associations ludiques de **Betton** organisent conjointement une journée jeux le **samedi 12 octobre, de 14h à minuit**.
 
+<!--more-->
+
 Cet évènement est **gratuit** et **ouvert à toutes et tous**.
 
 **5 associations** investissent l’ensemble de l’**espace Anita Conti** (*10 Rue du Trégor* à Betton) pour vous faire découvrir leurs jeux:

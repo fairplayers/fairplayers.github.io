@@ -8,6 +8,8 @@ tags: ["Online sessions"]
 
 Tous les 1er et 3ème mardis du mois, on se retrouve sur discord pour jouer ensemble à un jeu en ligne.
 
+<!--more-->
+
 Voici les prochaines dates:
 - 21 mars: **Age of Empires IV**,
 - 04 avril: **Fall Guys**,

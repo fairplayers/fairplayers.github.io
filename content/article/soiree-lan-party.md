@@ -8,6 +8,8 @@ tags: ["LAN", "LAN PC"]
 
 Inscrivez-vous à la première LAN de **fairplayers** qui aura lieu le **14 mai 2022 de 19h à minuit** à la médiathèque de Betton.
 
+<!--more-->
+
 La participation est gratuite, mais sur **inscription préalable**, et est réservée aux majeurs.
 
 Chaque participant amène son propre PC, avec les jeux déjà installés et mis à jour:

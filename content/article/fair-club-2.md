@@ -8,6 +8,8 @@ tags: ["LAN", "LAN consoles"]
 
 Le Fair Club #2 aura lieu le **jeudi 13 octobre**, de 19h à 23h.
 
+<!--more-->
+
 Au programme, plusieurs consoles en accès libre, avec entre autres:
 
 - 🏹 du party gaming avec **Tower Fall** sur Switch,

@@ -8,6 +8,8 @@ tags: ["LAN", "LAN consoles"]
 
 Notre tout premier évènement **Fair Club** s'est tenu la semaine dernière, avec comme thème principal les **Party Games**.
 
+<!--more-->
+
 Au programme:
 
 - pas mal de **Tower Fall**,

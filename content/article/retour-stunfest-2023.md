@@ -11,6 +11,8 @@ Ca y est on l'a fait ! Du **Bomberman Saturn** au **Stunfest 2023** !
 
 Le jeu était projeté sur le chapiteau extérieur du festival, le samedi soir de 22h à 00h15.
  
+<!--more-->
+
 Le stand n'a pas désemplit, avec **10 joueurs simultanés**, et la visite de plusieurs experts du jeu. Le niveau était relevé !
 
 On se rappelera de cette deuxième partie dantesque, un peu trop équilibrée, qui aura duré pas loin de 40 minutes 😱 ! Personne n'a voulu abandonner 😅.

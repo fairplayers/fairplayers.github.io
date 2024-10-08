@@ -8,6 +8,8 @@ tags: ["LAN", "LAN PC"]
 
 Nous étions 11 participant(e)s pour notre 4ème LAN PC, du 10 au 12 novembre 2023.
 
+<!--more-->
+
 Nous avons joué à:
 - Alien Swarm,
 - Back 4 Blood,

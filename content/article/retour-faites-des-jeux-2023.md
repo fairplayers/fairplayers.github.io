@@ -9,6 +9,8 @@ tags: ["Evènements"]
 
 Gros succès pour la première édition de **Faites des jeux**, l'évènement organisé conjointement par les associations ludiques de Betton, et qui a eu lieu le **samedi 7 octobre, de 14h à minuit**.
 
+<!--more-->
+
 Nous avions installé un stand jeux vidéo, avec:
 - une LAN PC à l'ancienne
 - Bomberman Saturn à 10 joueurs

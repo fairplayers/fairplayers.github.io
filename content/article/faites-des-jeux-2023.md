@@ -11,6 +11,8 @@ Les associations ludiques de Betton organisent conjointement une journée jeux l
 
 Cet évènement est **gratuit et ouvert à toutes et tous**.
 
+<!--more-->
+
 Pas moins de 6 associations investissent l’ensemble de l’**espace Anita Conti** pour vous faire découvrir leurs jeux:
 - Jeux vidéo
 - Jeux de société

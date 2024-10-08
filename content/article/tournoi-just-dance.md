@@ -11,6 +11,8 @@ Venez danser avec nous lors du tournoi **Just Dance** que nous organisons le **s
 
 Rendez-vous à partir de 14h00, à **l'espace Anita Conti** de **Betton** (10 rue du Tregor).
 
+<!--more-->
+
 Le tournoi est **gratuit**, ouvert à toutes et tous **à partir de 9 ans,** et est limité à **40 participant(e)s**.
 
 Nous jouerons sur Just Dance 2019, 2017 et 2014 sur **PS4** avec une caméra à **détection de mouvements**.

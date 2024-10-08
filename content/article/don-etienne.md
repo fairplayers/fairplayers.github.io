@@ -8,6 +8,8 @@ tags: ["Donations"]
 
 Un grand merci à **Etienne** qui nous fait don de **deux moniteurs BenQ 24"** équipés en HDMI.
 
+<!--more-->
+
 Etienne est le troisième [membre donateur]({{< ref "/dons" >}} "Dons") de l'association.
 
 ![Moniteurs](/images/dons/20240716-moniteurs.jpg)

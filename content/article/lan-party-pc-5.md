@@ -8,6 +8,8 @@ tags: ["LAN", "LAN PC"]
 
 Nous étions 7 participant(e)s pour notre 5ème LAN PC, le samedi 16 mars 2024.
 
+<!--more-->
+
 Nous avons joué à:
 
 - Age of Empires IV,

@@ -9,6 +9,8 @@ tags: ["Evènements", "Tournois"]
 
 Les **15 participantes et participants** ont tout donné pendant les **3 heures** qu'ont duré notre tout premier tournoi sur **Just Dance** !
 
+<!--more-->
+
 Chacun et chacune a pu repartir avec un des **nombreux lots** (dont des goodies officiels Just Dance) qui ont été généreusement fournis par **Etienne**. Un grand merci à lui !
 
 Big up également à **Adèle** et **Anouk** pour l'organisation et l'animation de ce tournoi. Probablement le premier d'une longue série !

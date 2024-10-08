@@ -12,6 +12,9 @@
                 {{- else }}
                     {{- .Summary }}
                 {{- end }}
+                {{ if .Truncated }}
+                    <a href="{{ .RelPermalink }}">Voir plus...</a>
+                {{ end }}
             </p>
         </div>
     </div>

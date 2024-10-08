@@ -10,6 +10,8 @@ Tous les mardis on se retrouve sur discord pour jouer ensemble à un jeu en lign
 
 Le rendez-vous est à 20h sur notre [serveur discord](https://discord.gg/Cxy7tW4M46).
 
+<!--more-->
+
 Voici les prochaines dates:
 - 19 septembre: **Fall Guys**,
 - 26 septembre: **Among Us**,
