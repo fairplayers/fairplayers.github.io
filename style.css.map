@@ -3,14 +3,14 @@
 	"file": "style.css",
 	"sourceRoot": "/home/runner/work/fairplayers.github.io/fairplayers.github.io",
 	"sources": [
-		"/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/main.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_vars.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_functions.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_mixins.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_vendor.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_breakpoints.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_html-grid.scss",
-		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20240927151654-73c2ec1fd3af/assets/sass/libs/_custom_vars.scss",
+		"/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/main.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_vars.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_functions.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_mixins.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_vendor.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_breakpoints.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_html-grid.scss",
+		"../../../../../tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/half-duplex/hugo-arcana@v0.0.0-20241120153416-9fcf0964e35f/assets/sass/libs/_custom_vars.scss",
 		"assets/sass/custom.scss"
 	],
 	"sourcesContent": [
