@@ -21,6 +21,10 @@ Nous acceptons tout type de matériel:
 
 ## Membres donateurs
 
+### Brieuc "Agaeld"
+
+Un **moniteur 23" Philips** HDMI.
+
 ### Etienne
 
 Deux **moniteurs 24" BenQ** HDMI.
