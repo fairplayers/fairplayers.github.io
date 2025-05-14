@@ -13,10 +13,10 @@ Le **dimanche 15 juin 2025**, nous organisons le deuxième **Écran Partagé** e
 
 Au programme:
 
-- **16h00**: Session de Jeux Vidéo. Nous jouerons à *Boomerang Fu*, *Tower Fall* et *Mario Kart 8 Deluxe*.
-- **18h00**: Diffusion de [Minecraft, le film](https://www.allocine.fr/film/fichefilm_gen_cfilm=227463.html).
+- **16h**: Session de Jeux Vidéo: *Boomerang Fu*, *Tower Fall* et *Mario Kart 8 Deluxe*.
+- **18h**: Diffusion de [Minecraft, le film](https://www.allocine.fr/film/fichefilm_gen_cfilm=227463.html).
 
-Attention, pour participer à la session de Jeux Vidéo, il faut:
+⚠️ Attention, pour participer à la session de Jeux Vidéo, il faut:
 - être pré-inscrit: ➡️ [Pré-inscription sur HelloAsso](https://www.helloasso.com/associations/fairplayers/evenements/ecran-partage-jeux-video-avant-minecraft-le-film)
 - acheter sa place pour "Minecraft, le film"
 
