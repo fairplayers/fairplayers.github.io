@@ -55,6 +55,12 @@ title = 'fairplayers'
         [[params.footer.links]]
             header = "Evènements"
         [[params.footer.links.links]]
+            title = "Écran partagé: Minecraft"
+            url = "/article/retour-ecran-partage-minecraft/"
+        [[params.footer.links.links]]
+            title = "Faites des Jeux 2024"
+            url = "/article/faites-des-jeux-2024/"
+        [[params.footer.links.links]]
             title = "Écran partagé: Knit's Island"
             url = "/article/ecran-partage-knit-s-island/"
         [[params.footer.links.links]]
