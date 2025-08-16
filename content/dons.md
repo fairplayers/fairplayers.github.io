@@ -43,6 +43,7 @@ Don d'une **PS3** avec 2 gamepads et 7 jeux.
 
 ### Yohan "Ryctus"
 
-Don d'une **Xbox 360** et de 10 jeux.
+Don d'une **Xbox 360** avec 10 jeux, ainsi que d'une **Switch*.
 
 ![Xbox360](/images/dons/20220712-xbox360.jpg)
+![Switch](/images/dons/20250614-switch.jpg)
