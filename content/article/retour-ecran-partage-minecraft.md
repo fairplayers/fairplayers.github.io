@@ -1,5 +1,5 @@
 ---
-title: "🎬 Retour sur l'Écran partagé"
+title: "🎬 Retour sur le deuxième Écran partagé"
 date: 2025-08-15T12:00:00+01:00
 draft: false
 image: '/images/ecran-partage/20250615/04.jpg'
