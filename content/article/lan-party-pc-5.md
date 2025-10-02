@@ -23,5 +23,3 @@ Nous avons joué à:
 - Valorant
 
 ![01](/images/lan-party-pc/20240316/01.jpg)
-![02](/images/lan-party-pc/20240316/02.jpg)
-![02](/images/lan-party-pc/20240316/03.jpg)

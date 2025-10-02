@@ -20,8 +20,6 @@ Nous étions une dizaine de personnes rénunies tout un samedi pour jouer à:
 - Quake Champions,
 - Rocket League
 
-![01](/images/lan-party-pc/20230128/01.jpg)
-
 ![02](/images/lan-party-pc/20230128/02.jpg)
 
 ![03](/images/lan-party-pc/20230128/03.jpg)

@@ -2,7 +2,7 @@
 title: "🖥️ LAN Party PC #4"
 date: 2023-11-15T12:00:00+01:00
 draft: false
-image: '/images/lan-party-pc/20231111/03.jpg'
+image: '/images/lan-party-pc/20231111/04.jpg'
 tags: ["LAN", "LAN PC"]
 ---
 
@@ -25,5 +25,4 @@ Nous avons joué à:
 
 ![01](/images/lan-party-pc/20231111/01.jpg)
 ![02](/images/lan-party-pc/20231111/02.jpg)
-![03](/images/lan-party-pc/20231111/03.jpg)
 ![04](/images/lan-party-pc/20231111/04.jpg)

@@ -39,11 +39,3 @@ Au menu:
 #### Un gros succès et beaucoup de fun pour Bomberman.
 
 ![Bomberman](/images/retrogaming/bomberman-2.jpg)
-
-#### Pour les plus jeunes, la découverte des joies du retrogaming.
-
-![Jeux](/images/retrogaming/jeux.jpg)
-
-#### Et un chouette apéro à la Buvette du Pont pour finir la journée en beauté.
-
-![Apero](/images/retrogaming/apero.jpg)

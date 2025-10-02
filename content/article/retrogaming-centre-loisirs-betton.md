@@ -2,7 +2,7 @@
 title: "🕹️ Retrogaming au centre de loisirs de Betton"
 date: 2022-07-14T13:00:00+01:00
 draft: false
-image: '/images/retrogaming/20220712/wii-bowling.jpg'
+image: '/images/retrogaming/20220712/mario-kart-double-dash.jpg'
 tags: ["Evènements"]
 ---
 
@@ -11,8 +11,6 @@ Ce mardi 12 juillet 2022, de 18h à 20h, l'association a organisé une **animati
 <!--more-->
 
 **Cinq postes de jeux** ont été installés, pour le plus grand bonheur des enfants du centre, ainsi que leurs parents.
-
-![Wii bowling](/images/retrogaming/20220712/wii-bowling.jpg)
 
 **Wii Bowling** sur Wii.
 
