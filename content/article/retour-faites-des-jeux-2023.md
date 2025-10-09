@@ -17,7 +17,6 @@ Nous avions installé un stand jeux vidéo, avec:
 - Mario Kart sur Switch en double écran
 - moultes consoles rétrogaming
 
-![FDJ](/images/faites-des-jeux/2023/20231007_154635.jpg)
 ![FDJ](/images/faites-des-jeux/2023/20231007_193834.jpg)
 ![FDJ](/images/faites-des-jeux/2023/20231007_194042.jpg)
 ![FDJ](/images/faites-des-jeux/2023/IMG_5148.jpg)
