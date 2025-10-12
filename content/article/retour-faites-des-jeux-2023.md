@@ -1,5 +1,5 @@
 ---
-title: "🎮 Retour sur le 'Faites des jeux'"
+title: "🎮 Retour sur la 'Faites des jeux' 2023"
 date: 2023-10-10T12:00:00+01:00
 draft: false
 image: '/images/faites-des-jeux/2023/flyer.jpg'
