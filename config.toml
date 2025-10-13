@@ -55,6 +55,9 @@ title = 'fairplayers'
         [[params.footer.links]]
             header = "Evènements"
         [[params.footer.links.links]]
+            title = "Faites des Jeux 2025"
+            url = "/article/retour-faites-des-jeux-2025/"
+        [[params.footer.links.links]]
             title = "Écran partagé: Minecraft"
             url = "/article/retour-ecran-partage-minecraft/"
         [[params.footer.links.links]]
@@ -78,6 +81,9 @@ title = 'fairplayers'
 
         [[params.footer.links]]
             header = "LAN"
+        [[params.footer.links.links]]
+            title = "LAN PC #6"
+            url = "/article/lan-party-pc-6/"
         [[params.footer.links.links]]
             title = "LAN PC #5"
             url = "/article/lan-party-pc-5/"
