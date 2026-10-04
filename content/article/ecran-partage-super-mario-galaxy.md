@@ -7,7 +7,7 @@ image_alt: "Affiche du film Super Mario Galaxy"
 tags: ["Evènements", "Écran partagé", "Cinéma"]
 ---
 
-Le **dimanche 26 avril 2025**, nous organisons un **Écran Partagé** en association avec le cinéma **Le Triskel** de Betton.
+Le **dimanche 26 avril 2026**, nous organisons un **Écran Partagé** en association avec le cinéma **Le Triskel** de Betton.
 
 <!--more-->
 
